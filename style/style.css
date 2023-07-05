@@ -70,3 +70,13 @@ p {
   color: #777;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+}
