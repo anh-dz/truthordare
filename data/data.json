@@ -3,6 +3,8 @@
       "Điều vô lý nhất đã xảy ra với bạn trên đường phố là gì?",
       "Bạn đã từng buồn cười khi nào?",
       "Bạn đã từng khóc khi nào?",
+      "Nếu bạn có 1 tỷ, bạn sẽ tiêu như nào cho hết?",
+      "Cho bạn 10 tỷ, bạn đốt nhà bạn thân bạn, bạn có làm không?",
       "Ngửi nách người chơi khác",
       "Bạn sợ nhất điều gì?",
       "Không thể thiếu thứ gì trong tủ lạnh của bạn?",
@@ -172,6 +174,7 @@
   "dare": [
     "Cười trong 1 phút",
     "Cởi trần 30 giây",
+    "Cởi trần và nâng cao đùi",
     "Thực hiện một động tác người lớn",
     "Nhắn tin cho người yêu cũ",
     "Nhắn tin cho bạn thân của bạn, nhắn là anh yêu em",
@@ -259,9 +262,7 @@
     "Đặt một con sâu bướm trên tay và để nó di chuyển",
     "Cho một người khác tạo một trò chơi mới cho nhóm chơi",
     "Đặt một miếng kẹo bọt biển lên đầu và để nó tan",
-    "Gọi cho người yêu cũ của bạn và hát một bài hát",
     "Đi qua một đường hẹp mà không chạm vào các vật trên đường",
-    "Nhảy lên một chiếc bàn và hát một bài hát",
     "Đặt đầu vào một bát nước và uống nó",
     "Đú trend tiktok",
     "Quỳ xuống, dập đầu lậy 3 cái",
@@ -273,12 +274,14 @@
     "Squat 20 cái",
     "Squat 10 cái",
     "Push up 5 cái",
+    "Push up 10 cái",
     "Múa bụng",
     "Lắc mông theo bài nhạc mọi người chọn Tất cả có 30s để thảo luận bài",
     "Nhảy Gangnam Style",
     "Nhảy Waiting For You",
     "Hát Tháng tư là lời nói dối của em",
     "Hát và nhảy See Tình",
+    "Rap một bài bất kì",
     "Cho mọi người xem 3 bức ảnh mới nhất trong album của bạn",
     "Cho mọi người xem lịch sử duyệt web của bạn",
     "Chỉ sử dụng khuỷu tay của bạn, tải lên một trạng thái Facebook",
@@ -300,6 +303,8 @@
     "Hét to hết mức có thể",
     "Đi qua một đường hẹp mà không chạm vào các vật trên đường",
     "Kể một câu chuyện liên quan đến con chó",
-    "Simp một người khác giới trong 1 phút"
+    "Simp một người khác giới trong 1 phút",
+    "Kể về suy nghĩ tồi tệ nhất của bạn",
+    "Đấm người bạn ghét nhất ở đây"
   ]
 }
