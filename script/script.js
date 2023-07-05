@@ -21,13 +21,17 @@ function changeText(btnNumber) {
     content+=" Kể hoặc giải thích chi tiết"
     var title = "TRUTH"
     var col = "#1A5D1A"
+    updateText(content, title, col)
   }
   if (btnNumber == 1) {
     var content = dataDare[Math.floor(Math.random() * dataDare.length)]
     var title = "DARE"
     var col = "#FF6D60"
+    updateText(content, title, col)
   }
-  updateText(content, title, col)
+  if (btnNumber == 2) {
+    changeText(getRandomNumber(0, 1))
+  }
 }
 
 function updateText(content, title, col) {

@@ -3,10 +3,11 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
-  margin: 0;
+  min-height: 113vh;
+  margin: 0px;
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
+  overflow: hidden;
 }
 
 .header {
@@ -61,13 +62,10 @@ p {
   margin-top: 20px;
 }
 
-.social-links {
-  margin-top: 10px;
-}
-
 .social-link {
   display: inline-block;
   margin: 0 5px;
+  margin-top: 10px;
   font-size: 12px;
   color: #777;
   text-decoration: none;
