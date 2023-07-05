@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Centered Text Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+    }
+    
+    .header {
+      text-align: center;
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 24px;
+      color: #333;
+    }
+    
+    .content {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    
+    h1 {
+      font-size: 36px;
+    }
+    
+    p {
+      font-size: 18px;
+    }
+    
+    .button-container {
+      margin-top: 20px;
+    }
+    
+    .button {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      font-size: 16px;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    
+    .footer {
+      font-size: 14px;
+      color: #777;
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .social-links {
+      margin-top: 10px;
+    }
+    
+    .social-link {
+      display: inline-block;
+      margin: 0 5px;
+      font-size: 12px;
+      color: #777;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <p id="whichtruthdare">TRUTH OR DARE</p>
+  </div>
+  
+  <div class="content" id="content">
+    <h1 id="heading">UỐNG MỘT LY RƯỢU ĐỂ BẮT ĐẦU GAME NGAY NÀO!!!</h1>
+    <p id="paragraph">Ấn Truth để ra câu hỏi, Dare để ra thử thách</p>
+    <a href="#" class="button" onclick="changeText(0)">TRUTH</a>
+    <a href="#" class="button" onclick="changeText(1)">DARE</a>
+  </div>
+  
+  <div class="footer">
+    <p class="footer">Follow us on social media:</p>
+    <div class="social-links">
+      <a class="social-link" target="_blank" href="https://www.facebook.com/minkalexvina">Facebook</a>
+      <a class="social-link" target="_blank" href="https://www.instagram.com/minkalexvina">Instagram</a>
+      <a class="social-link" target="_blank" href="https://github.com/anh-dz">GitHub</a>
+    </div>
+  </div>
+  <script>
+  	var counterValue = 0;
+    function changeText(btnNumber) {
+    	if (btnNumber == 0) {
+      var heading = document.getElementById("heading");
+      var paragraph = document.getElementById("paragraph");
+      var whichtruthdare = document.getElementById("whichtruthdare");
+
+      heading.textContent = "New Heading";
+      whichtruthdare.textContent = "TRUTH";
+      counterValue++;
+      paragraph.textContent = "Lượt: " + counterValue;
+      alert("This is a BIG text!");
+      }
+    }
+    
+    function hideAndShowContent() {
+      var contentElement = document.getElementById("content");
+      contentElement.style.opacity = 0; // Hide the content by setting opacity to 0
+
+      setTimeout(function() {
+        contentElement.style.opacity = 1; // Show the content by setting opacity back to 1
+      }, 1000); // Delay the execution for 1 second (1000 milliseconds)
+    }
+  </script>
+</body>
+</html>
