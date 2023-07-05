@@ -34,6 +34,8 @@
       "Bạn đã từng xem xét trở thành người khỏa thân không?",
       "Bạn cảm thấy thế nào về mảnh vải cuối cùng của ổ bánh mì?",
       "Bạn có thể chạm lưỡi vào mũi không?",
+      "Bạn đã bao giờ chép phao trong giờ kiểm tra?",
+      "Bạn đã bao giờ rơi vào tình huống hết cứu?",
       "Nếu bạn có thể xóa đi một điều xấu trong thế giới này, điều đó sẽ là gì?",
       "Sở thích bí mật của bạn là gì?",
       "Món ăn kỳ lạ nhất mà bạn đã từng ăn là gì?",
@@ -235,6 +237,8 @@
     "Đặt một quả chuối lên mũi và ăn nó",
     "Thử một động tác nhảy ballet trong 1 phút",
     "Cho một người khác tạo kiểu tóc cho bạn trong 2 phút",
+    "Sờ má người bên cạnh",
+    "Cho tất cả mọi người xoa đầu bạn như chó",
     "Đặt một con sâu bướm trên tay và để nó di chuyển",
     "Cho một người khác tạo một trò chơi mới cho nhóm chơi",
     "Đặt một miếng kẹo bọt biển lên đầu và để nó tan",
@@ -305,6 +309,9 @@
     "Kể một câu chuyện liên quan đến con chó",
     "Simp một người khác giới trong 1 phút",
     "Kể về suy nghĩ tồi tệ nhất của bạn",
-    "Đấm người bạn ghét nhất ở đây"
+    "Đấm người bạn ghét nhất ở đây",
+    "Cầu cứu mọi người đi",
+    "Kể về chuyện tình trước đấy của bạn",
+    "Người yêu cũ của bạn có xinh không?"
   ]
 }
