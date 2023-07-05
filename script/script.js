@@ -18,6 +18,7 @@ function getRandomNumber(min, max) {
 function changeText(btnNumber) {
 	if (btnNumber == 0) {
     var content = dataTruth[Math.floor(Math.random() * dataTruth.length)]
+    content+=" Kể hoặc giải thích chi tiết"
     var title = "TRUTH"
     var col = "#1A5D1A"
   }
@@ -34,8 +35,8 @@ function updateText(content, title, col) {
   var paragraph = document.getElementById("paragraph")
   var whichtruthdare = document.getElementById("whichtruthdare")
 
-  heading.textContent = content
   whichtruthdare.textContent = title
+  heading.textContent = content
   whichtruthdare.style.color = col
   counterValue++
   paragraph.textContent = "👉 Lượt: " + counterValue
