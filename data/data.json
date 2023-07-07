@@ -201,7 +201,12 @@
     "Bạn đã bao giờ bị cắm sừng?",
     "Điều thần bí nhất mà bạn từng gặp phải?",
     "Bạn có tin vào ma quỷ không?",
-    "Bạn tốn thời gian của mình vào việc gì nhiều nhất?"
+    "Bạn tốn thời gian của mình vào việc gì nhiều nhất?",
+    "Bạn tốn nhiều tiền của mình vào việc gì?",
+    "Lần bạn trốn bạn bè làm điều bí mật?",
+    "Lần bạn trốn bố mẹ đi chơi?",
+    "Lần bạn trốn bố mẹ làm điều bí mật",
+    "Lần bạn sủi kèo với bạn bè"
 ],
 
   "dare": [
@@ -350,7 +355,9 @@
     "Kể một câu chuyện kinh dị",
     "Kể một câu chuyện 200 chữ",
     "Nằm ra sàn trong 1 phút",
+    "Nhắn tin với Elon Musk tôi sẽ mua lại Tesla và SpaceX",
     "Xúc phạm người bên cạnh bạn",
+    "Nói lời khen với người bạn ghét nhất ở đây",
     "Đứng dậy, hét lên Tôi là một người tuyệt vời",
     "Ngồi trong góc phòng không nói chuyện với ai trong 5 phút tiếp theo",
     "Bật nhảy 10 cái",
@@ -397,6 +404,8 @@
     "Chơi piano không khí trong 2 phút liên tục",
     "Đăng một bức ảnh trong máy lên story Ig hoặc Fb của bạn",
     "Làm cho mọi người bất ngờ",
-    "Nhắn tin với một người khác giới rằng bạn thích họ"
+    "Nhắn tin với một người khác giới rằng bạn thích họ",
+    "Kể về ước mơ của bạn và hiện thực hoá nó",
+    "Múa theo một video bất kì trên Tiktok hoặc Youtube"
   ]
 }
